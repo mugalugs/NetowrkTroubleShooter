@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/src/NetworkTroubleShooter/.vs/NetworkTroubleShooter/v15
-/src/NetworkTroubleShooter/NetworkTroubleShooter/bin/Debug
-/src/NetworkTroubleShooter/NetworkTroubleShooter/obj/Debug
+/src/NetworkTroubleShooter/.vs
+/src/NetworkTroubleShooter/NetworkTroubleShooter/bin
+/src/NetworkTroubleShooter/NetworkTroubleShooter/obj
